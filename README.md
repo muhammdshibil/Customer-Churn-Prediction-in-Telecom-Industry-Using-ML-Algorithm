@@ -1,0 +1,1 @@
+To guide the optimum machine-learning strategy for early client churn prediction Analysis of customer data insights to understand the problem, Implementation of different machine learning algorithms, Comparison between each machine learning algorithm to find the most efficient
